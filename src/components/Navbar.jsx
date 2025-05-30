@@ -1,4 +1,3 @@
-import React from 'react'
 import { FaGithub, FaLinkedin } from 'react-icons/fa'
 
 const Navbar = () => {
@@ -8,7 +7,7 @@ const Navbar = () => {
 
             <nav className="flex space-x-6 text-stone-300 text-xl">
                 <a
-                    href="https://github.com/your-username"
+                    href="https://github.com/KushalAlla"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-white transition-colors"
@@ -17,7 +16,7 @@ const Navbar = () => {
                 </a>
 
                 <a
-                    href="https://linkedin.com/in/your-profile"
+                    href="https://www.linkedin.com/in/kushalkumarreddyalla/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="hover:text-white transition-colors"

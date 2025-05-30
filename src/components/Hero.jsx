@@ -1,6 +1,5 @@
 import { motion } from 'framer-motion';
 import myPhoto from '../assets/myPhoto.jpg';
-import { containerVariants, itemVariants } from './Animation';
 
 
 const Hero = () => {
