@@ -1,11 +1,11 @@
-import './App.css';
-import Navbar from './components/Navbar';
-import Hero from './components/Hero';
-import Education from './components/Education';
-import Experience from './components/Experience';
-import TechStack from './components/TechStack';
-import ScrollToTopButton from './components/ScrollToTopButton';
-import { useEffect, useRef } from 'react';
+import "./App.css";
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import Education from "./components/Education";
+import Experience from "./components/Experience";
+import TechStack from "./components/TechStack";
+import ScrollToTopButton from "./components/ScrollToTopButton";
+import { useEffect, useRef } from "react";
 
 function App() {
   const scrollContainerRef = useRef(null);
